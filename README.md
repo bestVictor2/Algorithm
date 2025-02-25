@@ -1,2 +1,2 @@
-Algorithm
-huochairenzhishang�Ĳ˲��㷨
+# ALGORITHM
+**huochairenzhishang**的菜菜算法
