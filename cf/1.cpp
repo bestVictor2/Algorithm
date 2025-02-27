@@ -1,6 +1,7 @@
 /**
  * name:huochairenzhishang
  * time:2025 2.27
+ * exercise:div3 e
  * 破防div3 卡c一直写不好case 导致没时间写d 以后卡30min绝对跳题
  * d是个n方的题 不是很难 枚举每个位置即可，注意变化的即使后面比当前枚举数小的减去后面比当前枚举数大的 枚举最大值即可
  * 下面用xv yv 来表示
